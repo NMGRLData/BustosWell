@@ -1,0 +1,68 @@
+{
+    "aliquot": 1886, 
+    "analysis_type": "air", 
+    "collection_version": "0.1:0.1", 
+    "comment": "5.73 mg", 
+    "commit": "5d126e3b885c4ca295715c6c1f9447371513293c", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "experiment_id": "BustosWell", 
+    "identifier": "a-01-O", 
+    "increment": null, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 7, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "obama", 
+    "material": "gas", 
+    "project": "REFERENCES", 
+    "queue_conditionals_name": "", 
+    "sample": "air", 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2015-01-29T23:31:47", 
+    "username": "Lisa", 
+    "uuid": "c6b25db6-8d64-481b-9628-324aecac97c2"
+}

@@ -1,0 +1,68 @@
+{
+    "aliquot": 5, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "C21:272", 
+    "commit": "3ac40ece024e5bcd0ce85c92dde32e7a988b9bdc", 
+    "detectors": {
+        "AX": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "CDD": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "H2": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L1": {
+            "deflection": null, 
+            "gain": null
+        }, 
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "experiment_id": "BustosWell", 
+    "identifier": "63305", 
+    "increment": null, 
+    "irradiation": "NM-272", 
+    "irradiation_level": "C", 
+    "irradiation_position": 24, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "CDD"
+        }, 
+        "Ar37": {
+            "detector": "L2"
+        }, 
+        "Ar38": {
+            "detector": "L1"
+        }, 
+        "Ar39": {
+            "detector": "AX"
+        }, 
+        "Ar40": {
+            "detector": "H1"
+        }, 
+        "Ar41": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "jan", 
+    "material": "san", 
+    "project": "Cather_McIntosh", 
+    "queue_conditionals_name": "", 
+    "sample": "BW-2014-22", 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2015-01-29T05:31:04", 
+    "username": "NMGRL", 
+    "uuid": "9bf66505-441e-478d-b907-447e67a005d9"
+}
